@@ -14,7 +14,8 @@ Put it on the graph</br>
 Use this to find the origin of replication</br>
 
 <b>Paul</b></br>
-Determine location of DnaA ( put it on the graph)</br>
-Determine location of DnaA relative to origin of replication</br>
+Determine location of dnaA boxes in the chromosome (5’ -TTATNCACA – 3’)
+Determine location of dnaA ( put it on the graph)</br>
+Determine location of dnaA relative to origin of replication</br>
 *Find if there is a correlation between location and “lifestyle”</br> 
 
